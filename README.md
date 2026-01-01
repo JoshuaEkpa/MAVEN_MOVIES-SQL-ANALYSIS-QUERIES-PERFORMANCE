@@ -5,7 +5,6 @@ ________________________________________________________________________________
 ![gettyimages-1185528705-2048x2048](https://github.com/user-attachments/assets/71e23f46-7a25-448b-a254-88d1cf0c6361)
 
 
-
 ___________________________________________________________________________________________________________________________________________
 
 This study presents a comprehensive analysis of the Maven Movies DVD rental database using Structured Query Language (SQL) and Business Intelligence techniques. The objective is to examine customer behavior, film performance, revenue trends, and store operations to support data-driven decision-making. 
