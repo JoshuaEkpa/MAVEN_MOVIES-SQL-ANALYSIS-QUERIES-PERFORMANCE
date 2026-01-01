@@ -66,25 +66,31 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________ 
 
 Write Queries Using the Analyst Formula
+
 Most analysis queries follow this structure:
 
-SELECT      -- what you want to see
-FROM        -- main table
-JOIN        -- link related tables
-WHERE       -- filter (optional)
-GROUP BY    -- summarize
-ORDER BY    -- rank results 
+1. SELECT      -- what you want to see
+2. FROM        -- main table
+3. JOIN        -- link related tables
+4. WHERE       -- filter (optional)
+5. GROUP BY    -- summarize
+6. ORDER BY    -- rank results 
+
+___________________________________________________________________________________________________________________________________________________ 
 
 Maven-Movies-SQL-Analysis/── Queries/ 
 
-│   ├── 01_customer_analysis.sql
-│   ├── 02_film_analysis.sql
-│   ├── 03_category_analysis.sql
-│   ├── 04_revenue_analysis.sql
-│   ├── 05_store_staff_analysis.sql
-│   └── 06_combined_business_summary.sql
+1. │   ├── 01_customer_analysis.sql 
 
+2. │   ├── 02_film_analysis.sql 
 
+3. │   ├── 03_category_analysis.sql
+   
+5. │   ├── 04_revenue_analysis.sql
+   
+7. │   ├── 05_store_staff_analysis.sql
+   
+9. │   └── 06_combined_business_summary.sql
 
 ___________________________________________________________________________________________________________________________________________________
 
