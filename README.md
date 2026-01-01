@@ -63,6 +63,28 @@ ________________________________________________________________________________
 
 4. Business intelligence querying
 
+____________________________________________________________________________________________________________________________________________________ 
+
+Write Queries Using the Analyst Formula
+Most analysis queries follow this structure:
+
+SELECT      -- what you want to see
+FROM        -- main table
+JOIN        -- link related tables
+WHERE       -- filter (optional)
+GROUP BY    -- summarize
+ORDER BY    -- rank results 
+
+Maven-Movies-SQL-Analysis/── Queries/ 
+
+│   ├── 01_customer_analysis.sql
+│   ├── 02_film_analysis.sql
+│   ├── 03_category_analysis.sql
+│   ├── 04_revenue_analysis.sql
+│   ├── 05_store_staff_analysis.sql
+│   └── 06_combined_business_summary.sql
+
+
 
 ___________________________________________________________________________________________________________________________________________________
 
@@ -97,6 +119,32 @@ ________________________________________________________________________________
 3. Use seasonality insights for inventory and operational planning.
 
 _______________________________________________________________________________________________________________________________________________________  
+
+Dashboard Preview 
+<img width="1177" height="658" alt="Maven_Movies Screenshot 2026-01-01 145036" src="https://github.com/user-attachments/assets/585bcc68-1604-4309-ac92-78b8addadf91" /> 
+
+_______________________________________________________________________________________________________________________________________________________
+
+Music_Trend 
+
+<img width="692" height="381" alt="Music_Trend_Screenshot 2026-01-01 145300" src="https://github.com/user-attachments/assets/29e4fbe0-2e2c-4d2b-9dc6-5f213ed61b21" />
+
+______________________________________________________________________________________________________________________________________________________ 
+
+MUsic_Map Showing Cities & Countries 
+
+<img width="596" height="366" alt="MUSIC_ MAP_ Screenshot 2026-01-01 145246" src="https://github.com/user-attachments/assets/dd312ad5-e6ff-4f2f-bed1-a4b7b1b10824" />
+
+_________________________________________________________________________________________________________________________________________________ 
+
+Exploring the World of Data to Deliver into Impactful and Actionable Insights 
+
+<img width="595" height="417" alt="Screenshot 2025-12-20 193545" src="https://github.com/user-attachments/assets/430faf77-68d1-4eca-b367-7bb207426b73" />
+
+
+
+
+
 
 
 
