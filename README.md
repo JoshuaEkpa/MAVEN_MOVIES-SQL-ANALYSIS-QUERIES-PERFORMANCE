@@ -20,20 +20,24 @@ ________________________________________________________________________________
 
 📌 Project Overview
 
-This project presents a concise, business-focused analysis of the Maven Movies DVD Rental dataset using SQL. The objective is to extract actionable insights on customer behavior, film performance, revenue trends, and store operations to support data-driven decision-making.
+This Project analyzes the maven Movies rental database using SQL and Power BI to uncover trends in movie rentals, customer behaviour, revenue 
+performance, and geagrahical distribution. The goal isto transform raw transactional data into actionable business insights through optimized SQL 
+queries and interactives visualizations.   
 
 
 _________________________________________________________________________________________________________________________________________________
 
-🗂️ Dataset
+🗂️ Dataset Description 
 
-1. The Maven Movies dataset is a relational database containing:
+The dataset represents a movies rental business and includes information: 
 
-2. Customers, Rentals, Payments
+1. Customers and rental activity
 
-3. Films, Categories, Inventory
+2. Films, Categories, rating
+   
+3. Store locations, cities, and countries 
 
-4. Stores and Staff
+4. Rental dates and transaction history
 
 
 (It reflects real-world transactional data and supports complex joins and analytical queries). 
@@ -55,13 +59,22 @@ ________________________________________________________________________________
 
 🛠️ Tools & Skills
 
-1. SQL (MySQL / PostgreSQL)
+1. SQL -- Data extraction, joins, aggregations, and performance optimization 
 
-2. Joins, Aggregations, CTEs
+2. Power BI -- interactive dashboard creation and visual storytelling 
 
-3. Date-based and categorical analysis
+3. Data Modeling -- Fact and dimention table analysis 
 
-4. Business intelligence querying
+4. Data Visualization -- KPIs, bar charts, trend lines, and maps
+
+____________________________________________________________________________________________________________________________________________________ 
+
+📈 Business Values 
+
+1. identifies high-value customers and top-perforamning movie categories
+2. Reveals rental seasonality and declining trends for strategic planning
+3. Supports inventory optimization and targeted marketing decisions
+4. Enhances decison-making with data-driven insights 
 
 ____________________________________________________________________________________________________________________________________________________ 
 
@@ -94,16 +107,54 @@ Maven-Movies-SQL-Analysis/── Queries/
 
 ___________________________________________________________________________________________________________________________________________________
 
+Key Metrics (Dashboard KPIs)
+
+1. Total Revenue -----------------> 4.13k
+2. Total Rentals -----------------> 8M
+3. Total Customers -----------------> 16
+4. Total categories -----------------> 16
+5. Total Films -----------------> 1k
+6. Geographical Covergae ----------------->
+   Cities -----------------> 599
+   Countries -----------------> 109
+
+
+___________________________________________________________________________________________________________________________________________________ 
+
 🔑 Key Insights
 
-1. A small group of customers generates a large share of total revenue.
+🎵 Music & Rental Trends
+   
+1. Rental activity peaked between July – September 2005, with the highest rental volume reaching approximately 0.64M.
+   
+2. A noticeable decline occurred after September 2005, dropping to 0.17M by early 2006, suggesting seasonal demand or reduced customer engagement.
 
-2. Rental demand is driven by a few high-performing films and categories.
+_____________________________________________________________________________________________________________________________________________________ 
 
-3. Revenue patterns show seasonal fluctuations.
+🏆 Top Customers 
 
-4. Store performance varies, enabling benchmarking opportunities.
+The top 10 customers contributed significantly to total rentals, with the highest individual rental count exceeding 150 rentals, indicating strong customer loyalty among a small segment. 
 
+
+🎬 Most Rented Movie Titles 
+
+1. Popular titles include African Egg, Antitrust Trust, and American Circus, each recording over 30 rentals.
+2. Demand is concentrated among a limited number of high-performing titles. 
+
+🎭 Top Movie Categories 
+
+1. Drama, Comedy, and Children genres generated the highest revenue.
+2. Horror and Sci-Fi showed comparatively lower revenue, highlighting potential areas for promotional strategy or catalog optimization.
+
+⭐ Film Rating Performance 
+
+1. NC-17 and R-rated films generated the highest rental volumes.
+2. PG-rated films recorded the lowest engagement, indicating a stronger adult-oriented customer base.
+
+🌍 Geographic Distribution 
+
+1. Customers span North America, Europe, Asia, Africa, and South America. 
+2. High customer density observed in North America and Europe, signaling primary market regions.
 
 ____________________________________________________________________________________________________________________________________________________
 
@@ -116,15 +167,30 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________
 
-✅ Recommendations
+✅ Future Inprovement  
 
-1. Focus inventory and promotions on top-performing films and categories.
-
-2. Strengthen customer segmentation to retain high-value customers.
-
-3. Use seasonality insights for inventory and operational planning.
-
+1. Add predictive analysis for rental demand forecasting
+2. Segment customers using RFM analysis
+3. Integrate time-series forcasting for revenue trends
+4. Expand analysis to include store-level profitabilty 
 _______________________________________________________________________________________________________________________________________________________  
+
+📌 Recommendations 
+
+1. Increase Retention & Revenue: Launch loyalty programs and personalized offers to retain high-value customers and drive repeat rentals.
+2. Optimize Inventory & Content Strategy: Focus on high-performing genres (Drama, Comedy, Children) and popular ratings (NC-17, R), while reviewing underperforming categories.
+3. Maximize Peak Demand: Strengthen marketing and stock availability during peak rental periods (July–September) to capture higher revenue.
+4. Expand High-Performing Markets: Prioritize marketing efforts in strong regions (North America and Europe) and apply data-driven forecasting to stabilize off-peak demand.
+
+
+______________________________________________________________________________________________________________________________________________________
+
+📌 Conclusion  
+
+This project demonstrates strong proficiency in SQL analytics, business intelligence, and data storytelling. It showcases how structured queires and 
+dashboard can drive strategic insights in the entertainment and rental industry. 
+
+
 
 Dashboard Preview 
 <img width="1177" height="658" alt="Maven_Movies Screenshot 2026-01-01 145036" src="https://github.com/user-attachments/assets/585bcc68-1604-4309-ac92-78b8addadf91" /> 
