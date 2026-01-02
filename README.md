@@ -208,15 +208,19 @@ MUsic_Map Showing Cities & Countries
 
 _________________________________________________________________________________________________________________________________________________ 
 
-Exploring the World of Data to Deliver into Impactful and Actionable Insights 
+Exploring the World of Data to Deliver into Actionable and Impactful Insights 
 
 <img width="595" height="417" alt="Screenshot 2025-12-20 193545" src="https://github.com/user-attachments/assets/430faf77-68d1-4eca-b367-7bb207426b73" />
 
+________________________________________________________________________________________________________________________________
 
-
-
-
-
+👤 Author
+Joshua Ekpah
+Data Analyst | Excel | Power BI | SQL | Business Intelligence
+📬 Contact: +234 816 778 7222
+📧 Email: joshuaekpa5@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/joshua-ekpa-302223327
+🔗 Wix APP: https://joshuaekpa5.wixsite.com/joshuaekpa
 
 
 
