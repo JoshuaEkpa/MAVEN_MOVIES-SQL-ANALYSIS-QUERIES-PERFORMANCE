@@ -60,11 +60,20 @@ ________________________________________________________________________________
 
 1. SQL -- Data extraction, joins, aggregations, and performance optimization 
 
-2. Power BI -- interactive dashboard creation and visual storytelling 
+2. Power BI -- interactive dashboard creation and visual storytelling
 
-3. Data Modeling -- Fact and dimention table analysis 
+3. Excel -- Power Pivot, Power Query, Pivot Tables and Pivot Charts
 
-4. Data Visualization -- KPIs, bar charts, trend lines, and maps
+4. Data Modeling -- Fact and dimention table analysis 
+
+5. Data Visualization -- KPIs, bar charts, trend lines, and maps
+
+_____________________________________________________________________________________________________________________________________ 
+
+Data Modeling 
+
+A star schema data model was designed in Power Pivot, with the Rental table as the central fact table and supporting dimension 
+tables for Film, Customer, and Location. Relationships were defined to ensure accurate filtering and aggregation across the model.
 
 ____________________________________________________________________________________________________________________________________________________ 
 
@@ -189,22 +198,44 @@ ________________________________________________________________________________
 This project demonstrates strong proficiency in SQL analytics, business intelligence, and data storytelling. It showcases how structured queires and 
 dashboard can drive strategic insights in the entertainment and rental industry. 
 
-
+________________________________________________________________________________________________________________________________________
 
 Dashboard Preview 
-<img width="1177" height="658" alt="Maven_Movies Screenshot 2026-01-01 145036" src="https://github.com/user-attachments/assets/585bcc68-1604-4309-ac92-78b8addadf91" /> 
+<img width="1196" height="671" alt="Maven_Movies Screenshot 2026-01-03 145619" src="https://github.com/user-attachments/assets/56e67028-675a-4078-a5a7-a3edd4876d6d" />
+ 
 
-_______________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________ 
 
+Data Modeling 
+<img width="1296" height="991" alt="Maven_Movies Data Modeling Screenshot 2026-01-03 113412" src="https://github.com/user-attachments/assets/b0c71050-d3d2-4eae-a5cb-378df3d222c4" />
+
+
+_____________________________________________________________________________________________________________________________________
+
+Pivot Table
+<img width="833" height="558" alt="Maven_Movies Screenshot 2026-01-03 142617" src="https://github.com/user-attachments/assets/cc33fb34-4df4-457d-acb3-154971f7e737" /> 
+
+
+
+_____________________________________________________________________________________________________________________________________
 Music_Trend 
 
-<img width="692" height="381" alt="Music_Trend_Screenshot 2026-01-01 145300" src="https://github.com/user-attachments/assets/29e4fbe0-2e2c-4d2b-9dc6-5f213ed61b21" />
+<img width="606" height="375" alt="Screenshot 2026-01-03 141355" src="https://github.com/user-attachments/assets/9c5654bb-3bf4-4f95-8f0e-c6b4b3e83b90" />
+
+
+<img width="692" height="381" alt="Music_Trend_Screenshot 2026-01-01 145300" src="https://github.com/user-attachments/assets/29e4fbe0-2e2c-4d2b-9dc6-5f213ed61b21" /> 
+
+<img width="708" height="405" alt="Screenshot 2026-01-03 141412" src="https://github.com/user-attachments/assets/b718c7ed-f429-424f-b69f-1e6ded8e0747" />
+
 
 ______________________________________________________________________________________________________________________________________________________ 
 
 MUsic_Map Showing Cities & Countries 
 
 <img width="596" height="366" alt="MUSIC_ MAP_ Screenshot 2026-01-01 145246" src="https://github.com/user-attachments/assets/dd312ad5-e6ff-4f2f-bed1-a4b7b1b10824" />
+
+<img width="653" height="451" alt="Screenshot 2026-01-03 141441" src="https://github.com/user-attachments/assets/7a0051e3-8bbe-453a-bae2-ceb90cf1616a" /> 
+
 
 _________________________________________________________________________________________________________________________________________________ 
 
