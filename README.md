@@ -195,7 +195,7 @@ ________________________________________________________________________________
 
 📌 Conclusion  
 
-This project demonstrates strong proficiency in SQL analytics, business intelligence, and data storytelling. It showcases how structured queires and 
+This project demonstrates strong proficiency in SQL analytics, business intelligence, and data storytelling. It showcases how structured queries and 
 dashboard can drive strategic insights in the entertainment and rental industry. 
 
 ________________________________________________________________________________________________________________________________________
