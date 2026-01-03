@@ -218,10 +218,11 @@ Pivot Table
 
 
 _____________________________________________________________________________________________________________________________________
-Music_Trend 
+Bar_Chart showing the distrubution of the Music_ Trend 
 
 <img width="606" height="375" alt="Screenshot 2026-01-03 141355" src="https://github.com/user-attachments/assets/9c5654bb-3bf4-4f95-8f0e-c6b4b3e83b90" />
 
+Music_Trend 
 
 <img width="692" height="381" alt="Music_Trend_Screenshot 2026-01-01 145300" src="https://github.com/user-attachments/assets/29e4fbe0-2e2c-4d2b-9dc6-5f213ed61b21" /> 
 
