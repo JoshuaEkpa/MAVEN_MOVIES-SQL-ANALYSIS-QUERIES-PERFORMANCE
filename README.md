@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 📌 Project Overview
 
-This Project analyzes the maven Movies rental database using SQL and Power BI to uncover trends in movie rentals, customer behaviour, revenue 
+This Project analyzes the maven movies rental database using SQL and Power BI to uncover trends in movie rentals, customer behaviour, revenue 
 performance, and geagrahical distribution. The goal isto transform raw transactional data into actionable business insights through optimized SQL 
 queries and interactives visualizations.   
 
@@ -79,7 +79,7 @@ ________________________________________________________________________________
 
 📈 Business Values 
 
-1. identifies high-value customers and top-perforamning movie categories
+1. Identifies high-value customers and top-perforamning movie categories
 2. Reveals rental seasonality and declining trends for strategic planning
 3. Supports inventory optimization and targeted marketing decisions
 4. Enhances decison-making with data-driven insights 
@@ -200,7 +200,7 @@ dashboard can drive strategic insights in the entertainment and rental industry.
 
 ________________________________________________________________________________________________________________________________________
 
-Dashboard Preview 
+Dashboard View 
 <img width="1196" height="671" alt="Maven_Movies Screenshot 2026-01-03 145619" src="https://github.com/user-attachments/assets/56e67028-675a-4078-a5a7-a3edd4876d6d" />
  
 
