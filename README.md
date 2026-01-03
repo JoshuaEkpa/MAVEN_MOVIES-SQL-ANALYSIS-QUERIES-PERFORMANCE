@@ -206,13 +206,15 @@ Dashboard Preview
 
 ______________________________________________________________________________________________________________________________________ 
 
-Data Modeling 
+Data Modeling  
+
 <img width="1296" height="991" alt="Maven_Movies Data Modeling Screenshot 2026-01-03 113412" src="https://github.com/user-attachments/assets/b0c71050-d3d2-4eae-a5cb-378df3d222c4" />
 
 
 _____________________________________________________________________________________________________________________________________
 
-Pivot Table
+Pivot Table 
+
 <img width="833" height="558" alt="Maven_Movies Screenshot 2026-01-03 142617" src="https://github.com/user-attachments/assets/cc33fb34-4df4-457d-acb3-154971f7e737" /> 
 
 
@@ -234,6 +236,7 @@ ________________________________________________________________________________
 MUsic_Map Showing Cities & Countries 
 
 <img width="596" height="366" alt="MUSIC_ MAP_ Screenshot 2026-01-01 145246" src="https://github.com/user-attachments/assets/dd312ad5-e6ff-4f2f-bed1-a4b7b1b10824" />
+
 
 <img width="653" height="451" alt="Screenshot 2026-01-03 141441" src="https://github.com/user-attachments/assets/7a0051e3-8bbe-453a-bae2-ceb90cf1616a" /> 
 
