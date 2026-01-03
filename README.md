@@ -111,7 +111,7 @@ Maven-Movies-SQL-Analysis/── Queries/
    
 7. │   ├── 05_store_staff_analysis.sql
    
-9. │   └── 06_combined_business_summary.sql
+9. │ └──06_combined_business_summary.sql
 
 ___________________________________________________________________________________________________________________________________________________
 
@@ -200,7 +200,7 @@ dashboard can drive strategic insights in the entertainment and rental industry.
 
 ________________________________________________________________________________________________________________________________________
 
-Dashboard View 
+Dashboard
 <img width="1196" height="671" alt="Maven_Movies Screenshot 2026-01-03 145619" src="https://github.com/user-attachments/assets/56e67028-675a-4078-a5a7-a3edd4876d6d" />
  
 
